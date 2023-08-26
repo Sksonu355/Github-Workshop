@@ -1,6 +1,6 @@
 # Github-Workshop
 
-I cloned / forked this repo. I edited thhis through github. Switched to the docs branch. Merge conflict resolved.
+I cloned / forked this repo. I edited thhis through github. Switched to the docs branch. Merge conflict resolved. Make changes.
 
 
 ### Links:
